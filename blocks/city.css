@@ -103,6 +103,8 @@
     }
     .city__image {
       margin-bottom: 16px;
+      box-shadow: 10px 10px 25px 0px #00000080;
+
     }
     .city__review {
       padding: 0 24px;
