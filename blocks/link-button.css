@@ -9,15 +9,13 @@
   font-size: 18px;
   font-weight: 600;
   transition: background-color 0.2s ease-in-out;
+  box-shadow: 10px 10px 25px 0px #00000080;
+
 }
 .link-button:hover {
   background-color: #0063d2;
 }
 
-.link-button.link-button.city__link {
-  box-shadow: 10px 10px 25px 0px #00000080;
-
-}
 
 @media screen and (max-width: 768px) {
   .link-button {
